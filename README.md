@@ -1,7 +1,12 @@
-# Mi Página Web con Firebase Hosting
 
-Este es un proyecto básico alojado en GitHub y desplegado en Firebase Hosting.
+# Mi Página Web
 
-## 🌐 Enlaces
-- Repositorio: [ENLACE AL REPO](https://github.com/usuario/repositorio)
-- Sitio en vivo: [ENLACE A FIREBASE](https://nombre-proyecto.web.app)
+Este proyecto es una página web sencilla alojada en GitHub y desplegada en Firebase Hosting.
+
+## Tecnologías usadas
+- HTML5
+- CSS3
+- Firebase Hosting
+
+## Despliegue
+Puedes ver la página en [Firebase Hosting](URL_DEL_DESPLIEGUE).
